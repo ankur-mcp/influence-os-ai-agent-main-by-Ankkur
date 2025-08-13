@@ -1,0 +1,15 @@
+{
+  "name": "Ankur Pandey",
+  "headline": "AI Enthusiast | Python Developer | B.tech Graduate",
+  "about": "Passionate about building intelligent systems and exploring AI/ML. Strong background in Python, data analysis, and prompt engineering.",
+  "skills": ["Python", "AI", "Data Analysis", "Prompt Engineering", "APIs"],
+  "experience": [
+    {
+      "company": "Humrobo Technologies",
+      "role": "A Web developer",
+      "duration": "Jan 2023 - May 2023",
+      "description": "Worked on AI-powered chatbot development using OpenAI APIs."
+    }
+  ],
+  "interests": ["Artificial Intelligence", "Machine Learning", "Startups", "Productivity"]
+}
